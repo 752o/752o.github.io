@@ -1,5 +1,6 @@
 # Welcome to Jared's Github Page
 **Things I want for Christmas**
+> Hi! My name is Jared James E. Paraiso and this is a Webpage about `things I want for Christmas`.
 1. New Phone
 ![alt text](https://www.apple.com/v/iphone-14-pro/c/images/meta/iphone-14-pro_overview__e414c54gtu6a_og.png)
 2. Money
