@@ -7,4 +7,6 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kIEWJ1ljEro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0rKtyWc8bvkriBthvHKY8d?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+> Another top rated song from Joji is **Slow Dancing in the Dark** which currently has 969,340,860 plays on Spotify. In "Slow Dancing in the Dark", Joji continues the loveborn narrative from his previous single "[YEAH RIGHT](https://www.youtube.com/watch?v=2-i91hR6ljQ)" over a dark, ambient instrumental. This time around, he uses the metaphor of *slow dancing in the dark* to characterize a failing relationship - just like a slow dance where you can't see your partner's face, his relationship with this person is intimate but ultimately impersonal.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzjUs5yR68o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
