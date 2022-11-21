@@ -6,3 +6,4 @@
 ![alt text](https://blog.remitly.com/wp-content/uploads/2021/02/pile-of-Philippine-currency-1024x683.jpeg)
 3. Love ni crushie xxD
 ![alt text](https://img.freepik.com/premium-vector/smiling-loving-emoji-face-with-smiling-eyes-three-hearts-3d-character_248162-128.jpg?w=2000)
+---
