@@ -14,5 +14,3 @@
 > However, one of my personal favorite music from Joji is called **Glimpse of Us**, In this track, this individual talks about how he compares his current relationship to the connection he felt with a past lover, unable to forget the feelings he had in his past, showing how destructive it can get without your presence in my life. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NgsWGfUlwJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<span style="color: blue"> dasghdfasda </span>
